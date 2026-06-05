@@ -1,4 +1,4 @@
 # kareena.git-demo
 This is my First Git Repository.
 <br>
-Author - Kareena Tanwar
+Author - Kareena Tanwar (Student)
